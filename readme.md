@@ -1,6 +1,6 @@
 # Music Player
 
-Plays music using simple html, css and javascript
+Plays music using html, css and javascript
 
 ### Executing program
 
