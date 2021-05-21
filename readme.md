@@ -8,5 +8,5 @@ Plays music using simple html, css and javascript
 
 ## Acknowledgments
 
-Made this with the help of tutorial from Travery Media
+Made this with the help of tutorial from Traversy Media
 * [vedio](https://youtu.be/QTHRWGn_sJw)
